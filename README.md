@@ -7,12 +7,15 @@ Ambiente para desenvolvedores, analistas, arquitetos testar seus conhecimentos s
     
 ## Features
 
-A lista de features está disponível aqui: 
+* As tarefas estão disponíveis no [Huboard](https://huboard.com/masterdeveloper1000/masterdeveloper).
+* Participe do projeto [Github backlog](https://github.com/masterdeveloper1000/masterdeveloper/issues)
 
 ## Contato
 
- [Fale por aqui](XXXXXX).
+ [Fale por aqui](https://masterdeveloper1000.github.io/).
+ 
  
  ## Licença
  
+ [![License](https://img.shields.io/github/license/masterdeveloper1000/masterdeveloper.svg)]
  
