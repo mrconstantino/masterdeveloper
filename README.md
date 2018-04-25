@@ -17,5 +17,5 @@ Ambiente para desenvolvedores, analistas, arquitetos testar seus conhecimentos s
  
  ## Licença
  
- [License](https://img.shields.io/github/license/masterdeveloper1000/masterdeveloper.svg)
+[![License](https://img.shields.io/github/license/masterdeveloper1000/masterdeveloper.svg)](https://github.com/masterdeveloper1000/masterdeveloper/blob/master/LICENSE)
  
